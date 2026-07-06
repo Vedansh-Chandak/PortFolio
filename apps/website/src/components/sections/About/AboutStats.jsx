@@ -1,6 +1,6 @@
 const stats = [
   {
-    value: "1+",
+    value: "2+",
     label: "Years Experience",
   },
   {
